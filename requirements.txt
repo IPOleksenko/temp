@@ -1,0 +1,7 @@
+aiogram
+psycopg2
+SpeechRecognition
+pyowm
+vosk
+pyaztro
+deep_translator 
